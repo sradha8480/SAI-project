@@ -1,0 +1,122 @@
+* Maintain suitable water temperature and quality (as specific to each species).
+* Quarantine new fish to prevent introducing diseases into established populations.
+* Feed high-quality, nutritionally balanced diets to enhance fish health.
+* Avoid overfeeding, as it can lead to poor water quality and disease.
+* Monitor for signs of stress, such as erratic swimming or loss of appetite, and take action promptly.
+
+*Rohu (Labeo rohita)*
+   - *Aeromoniasis* A bacterial infection causing hemorrhages and ulcerations.
+   - *Ichthyophthirius multifiliis (Ich)* A parasitic infection causing white cysts on the skin and gills.
+   - *Motile Aeromonad Septicemia (MAS)* Bacterial infection leading to lethargy, skin lesions, and ulcers.
+   - *Columnaris Disease* Caused by Flavobacterium columnare, resulting in skin and gill lesions.
+   - *Argulosis (Fish Lice)* Infestation by fish lice leading to skin irritation and secondary infections.
+
+*Catla (Catla catla)*
+   - *Columnaris Disease* Common bacterial infection causing skin and gill lesions.
+   - *Motile Aeromonad Septicemia (MAS)* Bacterial infection with skin ulcers.
+   - *Ichthyophthirius multifiliis (Ich)* Parasitic infection resulting in white cysts on the skin.
+   - *Edwardsiella ictaluri Infection* Bacterial disease affecting internal organs.
+   - *Gyrodactylus Infection (Fluke)* Skin and gill parasite causing irritation and poor growth.
+
+*Hilsa (Ilish) (Tenualosa ilisha)*
+   - *Viral Hemorrhagic Septicemia (VHS)* Highly contagious viral disease causing hemorrhaging.
+   - *Ichthyophthirius multifiliis (Ich)* Parasitic infection with white cysts on the skin.
+   - *Edwardsiella tarda Infection* Bacterial disease affecting internal organs.
+   - *Aeromoniasis* Bacterial infection causing ulcers and hemorrhages.
+   - *Koi Herpes Virus (KHV)* Viral disease causing lethargy and gill necrosis.
+
+*Pomfret (Various Species)*
+   - *Aeromoniasis* Bacterial infection causing skin ulcers and hemorrhages.
+   - *Vibriosis* Bacterial infection leading to lethargy and ulcerations.
+   - *Ichthyophthirius multifiliis (Ich)* Parasitic infection with white cysts on the skin.
+   - *Streptococcosis* Bacterial disease affecting multiple organs.
+   - *Lernaea (Anchor Worm)* Skin parasite causing irritation and secondary infections.
+
+*Indian Mackerel (Rastrelliger kanagurta)*
+   - *Vibriosis* Bacterial infection causing skin ulcers and lethargy.
+   - *Ichthyophthirius multifiliis (Ich)* Parasitic infection with white cysts on the skin.
+   - *Motile Aeromonad Septicemia (MAS)* Bacterial infection resulting in skin lesions.
+   - *Aeromoniasis* Bacterial infection leading to hemorrhages and ulcers.
+   - *Gyrodactylus Infection (Fluke)* Skin and gill parasite causing irritation.
+
+*Grass Carp (Various Species)*
+   - *Aeromoniasis* A bacterial infection causing hemorrhages and ulcerations.
+   - *Ichthyophthirius multifiliis (Ich)* A parasitic infection causing white cysts on the skin and gills.
+   - *Motile Aeromonad Septicemia (MAS)* Bacterial infection leading to lethargy, skin lesions, and ulcers.
+   - *Columnaris Disease* Caused by Flavobacterium columnare, resulting in skin and gill lesions.
+   - *Argulosis (Fish Lice)* Infestation by fish lice leading to skin irritation and secondary infections.
+
+*Pearlspot (Karimeen) (Etroplus suratensis)*
+   - *Viral Hemorrhagic Septicemia (VHS)* Highly contagious viral disease causing hemorrhaging.
+   - *Ichthyophthirius multifiliis (Ich)* Parasitic infection with white cysts on the skin.
+   - *Edwardsiella tarda Infection* Bacterial disease affecting internal organs.
+   - *Aeromoniasis* Bacterial infection causing ulcers and hemorrhages.
+   - *Koi Herpes Virus (KHV)* Viral disease causing lethargy and gill necrosis.
+ 
+*Indian Catfish (Magur/Koi)*
+   - *Columnaris Disease* Common bacterial infection causing skin and gill lesions.
+   - *Motile Aeromonad Septicemia (MAS)* Bacterial infection with skin ulcers.
+   - *Ichthyophthirius multifiliis (Ich)* Parasitic infection resulting in white cysts on the skin.
+   - *Edwardsiella ictaluri Infection* Bacterial disease affecting internal organs.
+   - *Gyrodactylus Infection (Fluke)* Skin and gill parasite causing irritation and poor growth.
+
+*Indian Salmon (Rawas) (Lates calcarifer)*
+   - *Vibriosis* Bacterial infection causing skin ulcers and lethargy.
+   - *Ichthyophthirius multifiliis (Ich)* Parasitic infection with white cysts on the skin.
+   - *Motile Aeromonad Septicemia (MAS)* Bacterial infection resulting in skin lesions.
+   - *Aeromoniasis* Bacterial infection leading to hemorrhages and ulcers.
+   - *Gyrodactylus Infection (Fluke)* Skin and gill parasite causing irritation.
+
+*Indian Carp (Rui) (Labeo rohita)*
+    - *Aeromoniasis* Bacterial infection causing hemorrhages and ulcerations.
+    - *Ichthyophthirius multifiliis (Ich)* Parasitic infection causing white cysts on the skin and gills.
+    - *Motile Aeromonad Septicemia (MAS)* Bacterial infection leading to lethargy, skin lesions, and ulcers.
+    - *Columnaris Disease* Caused by Flavobacterium columnare, resulting in skin and gill lesions.
+    - *Argulosis (Fish Lice)* Infestation by fish lice leading to skin irritation and secondary infections.
+
+*Indian Butter Catfish (Singhi) (Ompok pabda)*
+    - *Columnaris Disease* Common bacterial infection causing skin and gill lesions.
+    - *Motile Aeromonad Septicemia (MAS)* Bacterial infection with skin ulcers.
+    - *Ichthyophthirius multifiliis (Ich)* Parasitic infection resulting in white cysts on the skin.
+    - *Edwardsiella ictaluri Infection* Bacterial disease affecting internal organs.
+    - *Gyrodactylus Infection (Fluke)* Skin and gill parasite causing irritation and poor growth.
+*Yellowtail Scad (Rastralliger kanagurta)*
+   - *Vibriosis* Bacterial infection causing skin ulcers and lethargy.
+   - *Ichthyophthirius multifiliis (Ich)* Parasitic infection with white cysts on the skin.
+   - *Motile Aeromonad Septicemia (MAS)* Bacterial infection resulting in skin lesions.
+   - *Aeromoniasis* Bacterial infection leading to hemorrhages and ulcers.
+   - *Gyrodactylus Infection (Fluke)* Skin and gill parasite causing irritation.
+
+*Indian Basa (Pangasius pangasius)*
+    - *Columnaris Disease* Common bacterial infection causing skin and gill lesions.
+    - *Motile Aeromonad Septicemia (MAS)* Bacterial infection with skin ulcers.
+    - *Ichthyophthirius multifiliis (Ich)* Parasitic infection resulting in white cysts on the skin.
+    - *Edwardsiella ictaluri Infection* Bacterial disease affecting internal organs.
+    - *Gyrodactylus Infection (Fluke)* Skin and gill parasite causing irritation and poor growth.
+*Malabar Trevally (Malabar Caranx)*
+    - *Aeromoniasis* Bacterial infection causing hemorrhages and ulcerations.
+    - *Vibriosis* Bacterial infection leading to lethargy and ulcerations.
+    - *Ichthyophthirius multifiliis (Ich)* Parasitic infection causing white cysts on the skin.
+    - *Streptococcosis* Bacterial disease affecting multiple organs.
+    - *Lernaea (Anchor Worm)* Skin parasite causing irritation and secondary infections.
+
+ *Golden Pompano (Trachinotus blochii)*
+    - *Aeromoniasis* Bacterial infection causing skin ulcers and hemorrhages.
+    - *Vibriosis* Bacterial infection leading to lethargy and ulcerations.
+    - *Ichthyophthirius multifiliis (Ich)* Parasitic infection with white cysts on the skin.
+    - *Streptococcosis* Bacterial disease affecting multiple organs.
+    - *Lernaea (Anchor Worm)* Skin parasite causing irritation and secondary infections.
+
+*Indian Threadfin (Polynemus indicus)*
+    - *Viral Hemorrhagic Septicemia (VHS)* Highly contagious viral disease causing hemorrhaging.
+    - *Ichthyophthirius multifiliis (Ich)* Parasitic infection with white cysts on the skin.
+    - *Edwardsiella tarda Infection* Bacterial disease affecting internal organs.
+    - *Aeromoniasis* Bacterial infection causing ulcers and hemorrhages.
+    - *Koi Herpes Virus (KHV)* Viral disease causing lethargy and gill necrosis.
+
+*Yellow Catfish (Mystus gulio)*
+    - *Columnaris Disease* Common bacterial infection causing skin and gill lesions.
+    - *Motile Aeromonad Septicemia (MAS)* Bacterial infection with skin ulcers.
+    - *Ichthyophthirius multifiliis (Ich)* Parasitic infection resulting in white cysts on the skin.
+    - *Edwardsiella ictaluri Infection* Bacterial disease affecting internal organs.
+    - *Gyrodactylus Infection (Fluke)* Skin and gill parasite causing irritation and poor growth.

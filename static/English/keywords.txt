@@ -1,0 +1,41 @@
+Use GPS
+Enter Manually
+back
+Choose
+State
+Selected
+District
+Minimum
+Maximum
+Temperature
+Rainfall
+Name of Fish
+varies
+please allow location services
+Suitable Fishes for this Climate are
+Greater than
+Cultivated
+Size
+Loading
+can tolerate wide range
+Something Went Wrong
+Food required
+Cultivated
+None
+no. of fingerlings can be cultivated
+total cost for site development and construction
+total cost for store room and maintainance
+total cost for fingerlings
+total cost for feed
+total cost for labour
+total cost for urea and other expenditure
+Land In Square Metres
+Total Expenditure 
+Total Weight 
+Total Revenue 
+Total Income
+Cost Per Kg
+Calculate Budget
+Composite Fishing
+Diseases
+Precaution

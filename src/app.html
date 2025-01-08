@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/logo.png">
+		<link rel="manifest" crossorigin="use-credentials" href="manifest.json">
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+		<meta name="viewport" content="width=device-width" />
+    	<link rel="preconnect" href="https://fonts.googleapis.com">
+    	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    	<link href="https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Montserrat:wght@200&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+		<title> SAI </title>
+    <style>
+    @keyframes gradient {
+	    0% {
+	  	  background-position: 0% 50%;
+	    }
+	    50% {
+	  	  background-position: 100% 50%;
+	    }
+	    100% {
+	  	  background-position: 0% 50%;
+	    }
+    } 
+    </style>
+		%sveltekit.head%
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>

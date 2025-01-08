@@ -1,0 +1,14 @@
+{
+    "short_name": "SAI",
+    "name": "SAI (Smart Aquaculture Intelligence)",
+    "start_url": "/",
+    "icons": [{
+        "src": "logo.png",
+        "type": "image/png",
+        "sizes": "500x500"
+    }],
+    "background_color": "#404040",
+    "display": "standalone",
+    "theme_color": "#404040",
+    "description": "Smart Aquaculture Intelligence"
+}
